@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ryzen 5600",
+    "description": "Procesador de 12 nucleos",
+    "price": 3000,
+    "thumbnail": "productThumbnail",
+    "code": 1,
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "RAM",
+    "description": "Modulo RAM 16GB x 2",
+    "price": 2500,
+    "thumbnail": "productThumbnail",
+    "code": 5,
+    "stock": 15,
+    "id": 3
+  },
+  {
+    "title": "Horno samsung",
+    "description": "Horno de microondas Samsumg capacidad media",
+    "code": "007",
+    "price": 2500,
+    "status": true,
+    "stock": 50,
+    "category": "Electrodomesticos",
+    "thumbnails": [],
+    "id": "8"
+  },
+  {
+    "title": "vaso",
+    "description": "Un vaso de vidrio 355ml",
+    "code": "007",
+    "price": 25,
+    "status": true,
+    "stock": 100,
+    "category": "Utencilios de cocina",
+    "thumbnails": [],
+    "id": 4
+  }
+]
